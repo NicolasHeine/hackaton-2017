@@ -1,0 +1,116 @@
+{
+  "coffee": [
+    {
+      "id": 0,
+      "name": "Café court",
+      "img": "img/expresso.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 1,
+      "name": "Café long",
+      "img": "img/classique.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 2,
+      "name": "Café moka",
+      "img": "img/allonge.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 0,
+      "name": "Café court",
+      "img": "img/expresso.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 1,
+      "name": "Café long",
+      "img": "img/classique.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 2,
+      "name": "Café moka",
+      "img": "img/allonge.png",
+      "prix": "1.50€"
+    }
+  ],
+  "chocolat": [
+    {
+      "id": 0,
+      "name": "Chocolat noir",
+      "img": "img/cappucino.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 1,
+      "name": "Chocolat au lait",
+      "img": "img/gourmand.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 0,
+      "name": "Chocolat noir",
+      "img": "img/cappucino.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 1,
+      "name": "Chocolat au lait",
+      "img": "img/gourmand.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 0,
+      "name": "Chocolat noir",
+      "img": "img/cappucino.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 1,
+      "name": "Chocolat au lait",
+      "img": "img/gourmand.png",
+      "prix": "1.50€"
+    }
+  ],
+  "the": [
+    {
+      "id": 0,
+      "name": "Lait chaud",
+      "img": "img/blanc.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 1,
+      "name": "Lait sucré",
+      "img": "img/chai.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 2,
+      "name": "Lait au miel",
+      "img": "img/darj.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 0,
+      "name": "Lait chaud",
+      "img": "img/blanc.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 1,
+      "name": "Lait sucré",
+      "img": "img/chai.png",
+      "prix": "1.50€"
+    },
+    {
+      "id": 2,
+      "name": "Lait au miel",
+      "img": "img/darj.png",
+      "prix": "1.50€"
+    }
+  ]
+}

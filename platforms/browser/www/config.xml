@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.macc" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MAC.C</name>
+    <description>
+        Une application qu'elle est bien pour commander son café
+    </description>
+    <author email="nicolas.heine11@gmail.com" href="http://www.nicolasheine.fr">
+        Nicolas Heine
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <icon src="res/icon/icon.png" />
+    <splash src="res/screen/splash.png" />
+</widget>

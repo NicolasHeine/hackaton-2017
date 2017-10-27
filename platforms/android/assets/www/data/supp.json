@@ -1,0 +1,25 @@
+{
+  "supplements": [
+    {
+      "id": 0,
+      "name": "Madelaine",
+      "img": "/src/img",
+      "prix": 0.5,
+      "on_stock": true
+    },
+    {
+      "id": 1,
+      "name": "Speculos",
+      "img": "/src/img",
+      "prix": 0.5,
+      "on_stock": false
+    },
+    {
+      "id": 2,
+      "name": "Carré de chocolat",
+      "img": "/src/img",
+      "prix": 0.5,
+      "on_stock": true
+    }
+  ]
+}

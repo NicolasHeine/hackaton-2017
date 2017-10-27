@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MAC.C",
+  "short_name": "MAC.C",
+  "version": "io.cordova.macc",
+  "description": "Une application qu'elle est bien pour commander son café",
+  "author": "Nicolas Heine",
+  "icons": [
+    {
+      "src": "res/icon/icon.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
